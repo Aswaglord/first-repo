@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f0ae3b-0f4e-4933-b1a4-f836d13ff0f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z0WuarJEQNg06iv5tdqblhh6Dx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f0ae3b-0f4e-4933-b1a4-f836d13ff0f7" name="Default Changelist" comment="" />
+      <created>1583976714742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583976714742</updated>
+    </task>
+    <task id="LOCAL-00001" summary="testing">
+      <created>1583977660848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583977660848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583977626150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583977626150" />
+    <state x="530" y="119" key="CommitChangelistDialog2" timestamp="1583977660159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583977660159" />
+    <state x="633" y="303" key="FileChooserDialogImpl" timestamp="1583977117658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="303" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583977117658" />
+    <state x="354" y="191" key="SettingsEditor" timestamp="1583977125530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="354" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583977125530" />
+    <state x="468" y="246" key="Vcs.Push.Dialog.v2" timestamp="1583977664738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583977664738" />
+    <state x="685" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583976824650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583976824650" />
+    <state x="258" y="164" key="new project wizard" timestamp="1583977594219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="258" y="164" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583977594219" />
+  </component>
+</project>
